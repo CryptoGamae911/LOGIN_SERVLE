@@ -1,0 +1,10 @@
+/webapp/
+    /WEB-INF/
+        web.xml
+    index.html
+    /WEB-INF/classes/
+        User.java
+        UserDatabase.java
+        RegisterServlet.java
+        LoginServlet.java
+        LogoutServlet.java
